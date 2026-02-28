@@ -2,7 +2,6 @@
 
 A full-stack Job Board web application built using Python Flask where users can easily post job openings and browse available job opportunities through a clean and user-friendly interface.
 
----
 
 ## 📌 Project Overview
 
@@ -14,7 +13,7 @@ This project demonstrates:
 - Form handling and routing
 - Deployment of a full-stack application
 
----
+
 
 ## 🚀 Key Features
 
@@ -25,7 +24,6 @@ This project demonstrates:
 - 🎨 Clean and Responsive UI  
 - 🌐 Live Deployment on Render  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +41,7 @@ This project demonstrates:
 ### 🔹 Deployment
 - Render  
 
----
+
 
 ## 📂 Project Structure
 
@@ -61,7 +59,6 @@ Job-Board/
 └── README.md
 ```
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -133,7 +130,7 @@ https://job-board-3-3u4x.onrender.com/
 - 📄 Pagination
 - 📩 Apply for Job Feature
 
----
+
 
 ## 🧠 Skills Demonstrated
 
